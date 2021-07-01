@@ -1,9 +1,18 @@
 ### Hi there 👋
 
+- I'm Sinan.
+- I graduated from management information systems.
+- I love web development especially Front-end.
+- Html5, Css3, Javascript and learning React...
+
+
+
 <!--
 **sinanolcay/sinanolcay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: Hi there. I'm Sinan.
+I graduated from management information systems.
+I love web development especially Front-end.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
