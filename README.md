@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 - I'm Sinan.
-- I graduated from management information systems.
+- I graduated from Management Information Systems.
 - I'm Sap MII consultant.
 
